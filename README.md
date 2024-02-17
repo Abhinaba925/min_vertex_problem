@@ -4,6 +4,14 @@ Given an undirected graph, the task is to find the smallest set of vertices such
 ![Image 1](ER_20_MVC.png)
 ![Image 2](MVC_values.png)
 
+<table>
+  <tr>
+    <td><img src="ER_20_MVC.png" alt="An Erdos Renyi instance for graph size 20" width="400"/></td>
+    <td><img src="MVC_values.png" alt="Minimum vertex values" width="400"/></td>
+  </tr>
+</table>
+
+
 
 
 
